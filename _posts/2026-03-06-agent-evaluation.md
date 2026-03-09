@@ -126,7 +126,7 @@ A concrete example illustrates this well. On a **polyomino packing** task from F
 </div>
 
 <div style="background: #f0f4fa; border-left: 4px solid #4a90d9; padding: 1rem 1.2rem; border-radius: 6px; margin: 1.5rem 0; color: #1a1a1a;">
-<strong>📢 Call for Action.</strong> This task is far from saturated. A human expert achieves a packing score of <strong>92</strong>, while the best current evolving agent reaches only the low 80s—leaving substantial room for improvement. This stands in sharp contrast to benchmarks like circle packing, where all major methods have already converged to the same ceiling. Frontier-CS tasks are designed with deep search spaces and high expert-level ceilings, ensuring they remain meaningful as methods improve. We encourage the community to develop <strong>stronger online evolution strategies</strong> and push toward—and beyond—the human expert frontier.
+📢 This task is far from saturated. A human expert achieves a packing score of <strong>92</strong>, while the best current evolving agent reaches only the low 80s—leaving substantial room for improvement. This stands in sharp contrast to benchmarks like circle packing, where all major methods have already converged to the same ceiling. Frontier-CS tasks are designed with deep search spaces and high expert-level ceilings, ensuring they remain meaningful as methods improve. We encourage the community to develop <strong>stronger online evolution strategies</strong> and push toward—and beyond—the human expert frontier.
 </div>
 
 ### Use Case 2: Offline Learning
