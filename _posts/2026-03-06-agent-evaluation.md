@@ -20,6 +20,14 @@ authors:
     url: "https://people.eecs.berkeley.edu/~mert_cemri/"
     affiliations:
       name: University of California, Berkeley
+  - name: Shubham Agarwal
+    url: "https://skejriwal44.github.io/"
+    affiliations:
+      name: University of California, Berkeley
+  - name: Hanchen Li
+    url: "https://hanchenli.github.io/"
+    affiliations:
+      name: University of California, Berkeley
   - name: Qizheng Zhang
     url: "https://alex-q-z.github.io/"
     affiliations:
