@@ -69,7 +69,8 @@ Worse still, many tasks used in prior evolving-agent papers are not expert-craft
     <figcaption style="margin-top: 0.5rem; font-size: 0.9em; font-weight: bold;">Existing LLM evolving work converges to the same best for the circle-packing task.</figcaption>
   </figure>
 </div>
-### Why the Evaluation Gap?
+
+### Why Current Evaluation Fails?
 We identify two core failure reasons. First, many existing tasks are community-contributed and community-maintained, resulting in limited scale and inconsistent quality. Second, many of these tasks do not have enough difficulty or headroom to meaningfully measure continued progress. Their search spaces are often too small. 
 
 Circle packing is a representative case: the core solution is typically just a **~100-line Python program**, and most methods **differ only in how they wrap existing SLSQP-based optimization routines**.
